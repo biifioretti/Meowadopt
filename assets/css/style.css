@@ -23,6 +23,7 @@ header .frame1 {
     gap: 43px;
     padding-left: 63px;
     padding-top: 300px;
+    width: 900px;
 }
 
 .frame1 h1 {
